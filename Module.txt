@@ -1,0 +1,12 @@
+﻿Name: Contrib.Cache.Database
+AntiForgery: enabled
+Author: Sébastien Ros
+Website: https://github.com/sebastienros/Contrib.Cache.Database
+Version: 1.0
+OrchardVersion: 1.0
+Description: Uses the database to store output cache entries.
+Features:
+    Contrib.Cache.Database:
+        Description: Uses the database to store output cache entries.
+		Dependencies: Contrib.Cache
+        Category: Performance
